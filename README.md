@@ -49,4 +49,7 @@
 
    6.1 后端Python编写本地WEB服务
    
+       负责人: @Cyame
+       预计DDL: Wed-Sept.9th
+   
    6.2 前端Vue/React编写前端页面
